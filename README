@@ -8,6 +8,9 @@
 - EFI_default 红米笔记本原始驱动，无集成显卡驱动7M
 - Hackintool.zip plist注入工具最新
 
+## 代替方案
+- 无线wifi使用的compact usb网卡
+
 ## 未解决的问题
 
 - 蓝牙适配
